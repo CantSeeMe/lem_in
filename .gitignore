@@ -1,0 +1,12 @@
+.DS_Store
+a.out
+a.out*
+*.o
+obj/***
+lib*.a
+lem-in
+*.o
+*.*~
+*~
+.*#
+\#*\#
