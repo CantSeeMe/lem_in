@@ -18,8 +18,8 @@ BNF:
 
 \<number of ants\> ::= DIGIT                                                                                                                                        
 \<room name\>      ::= CHAR                                                                                                                                       
-\<rooms\>          ::= <room name> DIGIT DIGIT                                                                                                            
-\<node link\>      ::= <room-name>"-"<room-name>                                                                                                            
+\<rooms\>          ::= \<room name\> DIGIT DIGIT                                                                                                            
+\<node link\>      ::= \<room-name\>"-"\<room-name\>                                                                                                            
 
 NOTE
 
