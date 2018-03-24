@@ -16,10 +16,10 @@ The last part shall tell how the room are linked. each link is sperated with a n
 
 BNF:
 
-<number of ants> ::= DIGIT                                                                                                                                        
-<room name>      ::= CHAR                                                                                                                                       
-<rooms>          ::= <room name> DIGIT DIGIT                                                                                                            
-<node link>      ::= <room-name>"-"<room-name>                                                                                                            
+\<number of ants\> ::= DIGIT                                                                                                                                        
+\<room name\>      ::= CHAR                                                                                                                                       
+\<rooms\>          ::= <room name> DIGIT DIGIT                                                                                                            
+\<node link\>      ::= <room-name>"-"<room-name>                                                                                                            
 
 NOTE
 
